@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the Oxfordshire feast at St. Mary le Bow, November 15, 1694 by Samuel Walker, M.A. ; published at the request of the stewards.</title>
+            <author>Walker, Samuel, M.A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97012</idno>
+            <idno type="STC">Wing W414</idno>
+            <idno type="STC">ESTC R42867</idno>
+            <idno type="EEBO-CITATION">38875867</idno>
+            <idno type="OCLC">ocm 38875867</idno>
+            <idno type="VID">152481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2298:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the Oxfordshire feast at St. Mary le Bow, November 15, 1694 by Samuel Walker, M.A. ; published at the request of the stewards.</title>
+                  <author>Walker, Samuel, M.A.</author>
+               </titleStmt>
+               <extent>[4], 3-24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Fr. Leach for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Thessalonians, 1st, IV, 10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152481:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the Oxfordſhire Feaſt, AT <hi>St. MARY LE BOW, November</hi> 15. 1694.</p>
+            <p>By <hi>Samuel Walker,</hi> M. A.</p>
+            <q xml:lang="lat">Non memini me legere malâ morte mortuum, qui libenter ope<g ref="char:EOLhyphen"/>ra Charitatis exercuit; habet enim multos Interceſſores, &amp; Im<g ref="char:EOLhyphen"/>poſſibile eſt multorum preces à Deo non exaudiri. <bibl>Hieronymus.</bibl>
+            </q>
+            <p>Publiſhed at the Requeſt of the Stewards.</p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <dateline>
+                              <date>Jan. 23. 1694/5.</date>
+                           </dateline> 
+                           <signed>Guil. Lancaſter.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Fr. Leach,</hi> for the Author, 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152481:2"/>
+            <pb facs="tcp:152481:2"/>
+            <head>TO THE STEWARDS OF THE Oxfordſhire-Feaſt, For the Year 1694.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>YOur Kindneſs and Requeſt hath obliged me to publiſh the enſuing Diſcourſe of Brotherly Love and Chriſtian Charity. God grant that you, and I, and every Christian, may increaſe in that, and every good Grace and Vertue in this Life; that at the laſt Day we may partake of the Mercy of God unto Eternal Life, through the Merits of Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord; is the hearty wiſh of</p>
+            <closer>
+               <signed>Your moſt Affectionate Country-man and Humble Servant, <hi>S. W.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:152481:3"/>
+            <pb n="3" facs="tcp:152481:3"/>
+            <epigraph>
+               <q>
+                  <bibl>1 THESS. IV. 10.</bibl>
+                  <p>But we beſeech you Brethren to increaſe more and more.</p>
+               </q>
+            </epigraph>
+            <p>NO ſooner had our Bleſſed Lord (the glo<g ref="char:EOLhyphen"/>rious Son of the Eternal God) compleat<g ref="char:EOLhyphen"/>ed that grand myſterious work of our Re<g ref="char:EOLhyphen"/>demption, but he ſent his Diſciples to preach the Goſpel, not to ſome few ſelected people, whom he better loved than the reſt of mankind, but to all the Nations of the world, for ſo their Commiſſion runs, Mat. 28. <hi>Go, preach the Go<g ref="char:EOLhyphen"/>ſpel to all Nations.</hi> And among other <hi>Gentile</hi> places, the happy news, the glad tydings of the Goſpel, was affectionately delivered, and charm<g ref="char:EOLhyphen"/>ingly preached, by St <hi>Paul</hi> (the Apoſtle of the <hi>Gentiles</hi>) to the Inhabitants of <hi>Theſſalonica,</hi> the Metropolis of <hi>Macedonia:</hi> Where his Doctrine
+<pb n="4" facs="tcp:152481:4"/> found ſuch kind entertainment, that a great multitude of devout <hi>Greeks</hi> believed, <hi>and of the chief women not a few,</hi> Acts 17. v. 4. But no ſooner had the good Apoſtle preached unto them the Reſurrection of the author and finiſher of our Faith, but the malicious ill-natur'd <hi>Jews</hi> (with certain lewd fellows of the baſeſt ſort) aſ<g ref="char:EOLhyphen"/>ſaulted the houſe of <hi>Jaſon,</hi> for <hi>Paul</hi>'s ſake, car<g ref="char:EOLhyphen"/>rying both the Apoſtle and Diſciple before the Magiſtrates of the City, accuſing them of Tu<g ref="char:EOLhyphen"/>mult and Sedition, repreſenting them troublers of the World, and Enemies to <hi>Caeſar;</hi> ſo that the good Apoſtle was under a conſtraint to de<g ref="char:EOLhyphen"/>part from <hi>Theſſalonica,</hi> which made him leave his new Converts unſettled, not throughly eſta<g ref="char:EOLhyphen"/>bliſhed in the Faith: But yet ſo firm and ſolid was the foundation which he had laid, that all the black Regiment of Hell, with the Prince of the Powers of Darkneſs, could not extirpate, nor overturn it. The ſleight, and the cunning, the violence, and force of all the falſe Prophets, could not court them to embrace another Do<g ref="char:EOLhyphen"/>ctrine, nor fright them into an Abhorrence of that which they had received from St <hi>Paul:</hi>
+               <pb n="5" facs="tcp:152481:4"/> Who hearing from ſome of his Brethren, and Fellow labourers, of their ſtedfaſtneſs in the Faith, wrote this Epiſtle, to congratulate their conſtancy, their perſeverance in the ſame, and to arm them againſt all temptations, all afflicti<g ref="char:EOLhyphen"/>ons, which might attack their ſincerity, and aſſault their Chriſtian fortitude; and having thus confirmed them, in this Chapter he ex<g ref="char:EOLhyphen"/>horts them, <hi>v.</hi> 1. to pleaſe God by abounding more and more in all the duties of piety, <hi>v.</hi> 4. to keep their bodies pure and undefiled, <hi>v.</hi> 6. he dehorts them from fraud and oppreſſion, <hi>v.</hi> 9, 10. he commends their fraternal love and charity, for ſaith the Apoſtle of them, <hi>Ye exerciſe it to<g ref="char:EOLhyphen"/>wards all the brethren that are in Macedonia.</hi> And without vanity and ſelf-reflection, my beloved Brethren, and Fellow Countrymen, I muſt commend your charity and love, which you have often ſhewed one to another; <hi>but we be<g ref="char:EOLhyphen"/>ſeech you brethren, that ye increaſe more and more.</hi> Now the reaſon why St. <hi>Paul</hi> addreſſed himſelf, in this humble courteous language of intreaty is, I conceive, that his Doctrine might the better charm their affections, and be the more firmly
+<pb n="6" facs="tcp:152481:5"/> rooted in their hearts; that love might lead them to the practice of their duty, rather than fear frighten them into a compliance with it. The Apoſtle who had taken ſome with a holy guile, experimentally knew, that that Obedience is more ſincere, which proceeds from a principle of love, than that which is compelled by fear. My body and external parts may be forced, but no compulſion can prevail againſt my ſoul; That's the moſt ſweet and welcome Obedience, which is voluntary and unconſtrained. A Lion peradventure may be ſtroaked into a bondage, but ſooner will he be hewed in pieces than beaten into a chain. That is ſurely an imperfect kind of Obedience, which bows men to their duty by threats and terrors; there is very little of the heart in ſuch performances, which can therefore find very little acceptance with God our Savi<g ref="char:EOLhyphen"/>our, who would have the ground of our Obe<g ref="char:EOLhyphen"/>dience to be love, <hi>John</hi> 14. <hi>v.</hi> 15. <hi>If you love me keep my commandments:</hi> The drift and deſign of St. <hi>Paul,</hi> was to incourage his <hi>Theſſalonians</hi> in their vertuous practices in their Chriſtian progreſs; and therefore he beſeeches them to
+<pb n="7" facs="tcp:152481:5"/> increaſe, and that he might the better prevail with them, he adds that chriſtian appellation of Brethren, <hi>I beſeech you Brethren.</hi> But how the Apoſtle, a <hi>Jew</hi> born at <hi>Tarſus</hi> in-<hi>Cilicia,</hi> could call the <hi>Theſſalonians, Grecians</hi> by birth, Bre<g ref="char:EOLhyphen"/>thren may perhaps be queſtioned: For the ſa<g ref="char:EOLhyphen"/>tisfaction therefore of ſuch a Curioſity, it may be obſerved, that the word Brethren is variouſly uſed, as well in the Book of God, as our com<g ref="char:EOLhyphen"/>mon language; for not only they are called Brethren, that are born of the ſame, as <hi>Jacob</hi> and <hi>Eſau</hi> but they alſo, who derive their Ori<g ref="char:EOLhyphen"/>ginal from the ſame ſtock, ſo <hi>Abraham</hi> and <hi>Lot,</hi> though but Brothers Sons, were called Brethren: People of the ſame Nation, ſuch as follow the ſame Art or Trade, that are part<g ref="char:EOLhyphen"/>ners in the ſame Office or Employment, are called Brethren. <hi>Paul</hi> and <hi>Soſthenes,</hi> fellow-la<g ref="char:EOLhyphen"/>bourers in the work of the Miniſtry, are ſo cal<g ref="char:EOLhyphen"/>led, 1 <hi>Cor.</hi> 1.1. but in neither of theſe reſpects doth Saint <hi>Paul</hi> call the <hi>Theſſalonians</hi> by that Chriſtian name, but becauſe they were bre<g ref="char:EOLhyphen"/>thren in the Chriſtian Faith; and they may properly be called brethren, that profeſs the
+<pb n="8" facs="tcp:152481:6"/> ſame Faith, worſhip the ſame God, and in the ſame manner; are members of the ſame Church, and through the merits of the bleſſed Jeſus, are intereſſed in all the priviledges be<g ref="char:EOLhyphen"/>longing to the Sons of God. This is a Spiri<g ref="char:EOLhyphen"/>tual brotherhood, and in this ſenſe we are all Chriſtians, and as ſuch we are brethren in Chriſt Jeſus. And therefore, my beloved, I ſhall uſe the loving language of the Apoſtle, to perſwade you to that excellent duty of Cha<g ref="char:EOLhyphen"/>rity, upon our ſolemn Feaſt-day, which is a Feaſt of Love and Charity, which you have often exerciſed to the lowly branches of your Country, to your honour. <hi>But we beſeech you Brethren, to increaſe more and more.</hi> Highly reaſonable, neceſſary for us, and incumbent up<g ref="char:EOLhyphen"/>on us, is the practice of this great and honou<g ref="char:EOLhyphen"/>rable duty; if we conſider that God Almighty is our merciful Father, that he daily feeds and cloaths us, that he provides abundantly for us in this life, his mercies are renewed to us eve<g ref="char:EOLhyphen"/>ry day and every morning is a freſh inſtance of his goodneſs; in him we live, move and have our being; and theſe obligations ſhould
+<pb n="9" facs="tcp:152481:6"/> ingage us to love him with all our hearts, and our neighbour as our ſelves; to promote the intereſt and welfare of our brother; if he is in miſery, to help him; in want, to relieve him; if in trouble, to comfort him; if ignorant, to inſtruct him, if wicked, to admoniſh him in the ſpirit of meekneſs; if godly, to incourage him and imitate his pious example, let his con<g ref="char:EOLhyphen"/>dition and ſtate be high or low, noble or igno<g ref="char:EOLhyphen"/>ble; thou mayſt be uſeful and ſerviceable to him, in praying to God in his behalf. Thus the vileſt mortal that rakes a kennel, the poor<g ref="char:EOLhyphen"/>eſt beggar that craves an alms, may ſhew his charity to the greateſt King: In this ſenſe the deaf, the blind and lame may do good to themſelves, and the Church of God. This is our duty, and ought to be our practice, to love all men fervently without exception, to pray for them conſtantly without intermiſſion, and heartily without diſſimulation. If we con<g ref="char:EOLhyphen"/>ſider in our moſt ſober thoughts and ſerious meditations, that God Almighty is our boun<g ref="char:EOLhyphen"/>tiful Benefactor; that he daily loads us with his benefits, and multiplys his bleſſings upon
+<pb n="10" facs="tcp:152481:7"/> us: This conſideration will ſurely move our affection and compaſſion to their proper ob<g ref="char:EOLhyphen"/>jects, in raiſing up the drooping ſpirits of thoſe who lay low in the world, filling their bodies with good things, and their hearts with joy and gladneſs. Thus we ſhould imitate the divine Goodneſs we ſhould refreſh others with ſome of thoſe comforts, which daily flow upon us from the fountain of eternal bliſs. God Al<g ref="char:EOLhyphen"/>mighty requires us to acknowledge his bounty, by our kindneſs to thoſe who are unable to re<g ref="char:EOLhyphen"/>ſiſt a low and contemptible ſtate, and too weak to overcome it: Not to act like the ſordid earthly Mortal, who wants (if I may ſo ſpeak) the good nature of the <hi>Gadaren</hi>'s Darling, the brutiſh Hog, to pity and compaſſionate the miſeries and calamities of his fellow creatures, his own fleſh, who like a ſtanding Pool is con<g ref="char:EOLhyphen"/>fined within his own filthy black and deadly banks; but God requires us to act like men full of bowels of compaſſion, to be ready to eve<g ref="char:EOLhyphen"/>ry good work, to help the miſerable, to relieve the diſtreſſed, to ſupport the weak, to com<g ref="char:EOLhyphen"/>fort the broken-hearted, continually to give our
+<pb n="11" facs="tcp:152481:7"/> helping hand to thoſe of a low fortune, and to promote the intereſt of our indigent brother; to pour the wine of gladneſs, and oyl of com<g ref="char:EOLhyphen"/>fort into the wounds of our neighbors body, or ſoul; whether they be afflicted like <hi>Lazarus</hi> with the ſores of poverty and want; or like <hi>Gehazi,</hi> covered with the Leproſie of their own ſins; thus the merciful man acts, dealing his bread to the hungry, cloathing the naked, viſit<g ref="char:EOLhyphen"/>ing the afflicted ſoul, filling the poor with good things, ſeeking all opportunities of doing good, bringing forth the bleſſed fruits of Righteouſneſs and Mercy; for the merciful man, like the kind and lively ſtream, diſfuſeth his love liberally into his neighbouring ſoil, and gives fatneſs to the poor and barren land.</p>
+            <p>Secondly, The conſtant practice of our bleſſed Lord, commends this duty of increaſing more and more in charity and mercy; for he went about continually doing good, giving eyes to the blind, feet to the lame, underſtanding to the ignorant, and wiſdom to the ſimple; cu<g ref="char:EOLhyphen"/>ring the diſeaſes of the body, healing the di<g ref="char:EOLhyphen"/>ſtempers of the ſoul, quickning thoſe who
+<pb n="12" facs="tcp:152481:8"/> were dead in treſpaſſes and ſins. And if we who call our ſelves his diſciples, do not abound in gentleneſs, meekneſs and love, in acts of benevolence and beneficence, he will not own us as his Sheep, nor give us a Manſion in his Fathers Houſe: If we do not imitate him, in thoſe works of kindneſs and love to our Bre<g ref="char:EOLhyphen"/>thren, the Son of God will not acknowlege himſelf our Lord, nor will he give us any Re<g ref="char:EOLhyphen"/>ward in the life to come, but that which he hath prepared for unprofitable ſervants, and diſobe<g ref="char:EOLhyphen"/>dient Children. If we call our ſelves his Mem<g ref="char:EOLhyphen"/>bers, and walk not in conformity to him, our Head, we deceive our ſelves, provoke him to wrath, and he will take no pleaſure in us.</p>
+            <p>Thirdly, Our moſt holy and excellent Religion obliges us to perform works of charity and mercy, and to continue in the performance of them; for that exhorts you <hi>to increaſe in every good work</hi> Col. 1. v. 10. <hi>To be kind one to ano<g ref="char:EOLhyphen"/>ther, tender-hearted,</hi> Epheſ. 4. v. 32. <hi>But to ſerve one another by love, not to be weary in well doing,</hi> Gal. 5. v. 13. <hi>To be filled with the fruits of righ<g ref="char:EOLhyphen"/>teouſneſs, which are unto the praiſe and Glory of
+<pb n="13" facs="tcp:152481:8"/> God,</hi> Phil. 1. v. 11. Without theſe holy diſpo<g ref="char:EOLhyphen"/>ſitions and divine acts, you cannot be ſincerely Religious, nor bear ſuch fruits, by which our heavenly Father is glorified. Therefore ſaith St. <hi>Peter, add to your faith, vertue; to vertue, knowledge; to knowledge, temperance; to tempe<g ref="char:EOLhyphen"/>rance, patience; to patience, godlineſs; to godli<g ref="char:EOLhyphen"/>neſs, brotherly kindneſs; to brotherly kindneſs, charity: for if theſe things be in you, and a<g ref="char:EOLhyphen"/>bound, they make you, that you ſhall neither be barren, nor unfruitful, in the work of the Lord.</hi> And now, my beloved Brethren, Natives of that delightful, and well-ſituated City, in whoſe ſituation the goodneſs of the Lord hath greatly appeared; for God hath bleſſed her Inhabitants, with all things conducive to the health of their bodies, as a ſweet ſerene Air, neither too mild, nor too ſevere; pleaſant Ri<g ref="char:EOLhyphen"/>vers, fruitful Hills and Vallies, full of fatneſs. And God hath provided for the health of their ſouls, ſpiritual Phyſicians, indued with wiſdom and knowledge, who adminiſter milk to the infant Chriſtian, and to the ſtrong they apply more ſolid and ſubſtantial nouriſhment: For
+<pb n="14" facs="tcp:152481:9"/> that glorious City is adorned and beautified with a famous Univerſity, which is admired abroad, and preferred at home by all, but the contenders for a parallel. Some of her vene<g ref="char:EOLhyphen"/>rable body, late ingenious Members, are at this inſtant the reverend and laudable Paſtors of the moſt honourable Churches in this magnificent City, and are as much the Honour and Renown of the Metropolis, as ſhe is the Splendor and Glory of the Nation. Now my Fellow Coun<g ref="char:EOLhyphen"/>trymen of that pleaſant and fruitful Country, which is ſuperiour to moſt, inferiour to none, I beſeech you ſtrive with a ſpiritual Ambition, and holy Emulation, to exceed the reſt of mankind, in Piety, Charity and Mercy; ſtrive to excel each other in Courteſie, Friendſhip and Generoſity, in Peace, Goodneſs and Love; that others may walk by the light of your bright and ſplendid examples, in the bleſſed path of brotherly love, and Chriſtian Charity, which leads to eternal life. Oh let not your Charity grow cold to your Brethren, your own fleſh! kindle it into a holy and gene<g ref="char:EOLhyphen"/>rous flame, that the poor and lowly Cot<g ref="char:EOLhyphen"/>tages
+<pb n="15" facs="tcp:152481:9"/> of your Country, may be warmed by the heat of your compaſſion and mercy. The man that hath no affection for his own Country, deſerves not to be a member of any, for he will be kind to none; he neither follows the Example of Chriſt, nor obeys the Doctrine of his Goſpel, who prefers his private intereſt before the publick good; blameable then in the ſuperlative degree are thoſe men, which having been advanced by their Country, and injoying a proſperous fortune, a plentiful portion of this world, refuſe to perform thoſe kind Offices by which they have been raiſed. Such black ingrate, ſuch prodigies of unthankfulneſs; have not the Spirit nor natural Love of that noble Heroic <hi>Roman,</hi> who preferred the good of his Country before, and above his own Life, for he ſacrificed the one for the pre<g ref="char:EOLhyphen"/>ſervation of the other. Such Men deſerve not the Name of Chriſtians, for they have nothing of the genuine temper of the Go<g ref="char:EOLhyphen"/>ſpel Spirit; nay, ſuch Men are ſtrangers to natural affection, as well as to a holy Ca<g ref="char:EOLhyphen"/>tholic
+<pb n="16" facs="tcp:152481:10"/> Charity, and are not ſo morally ver<g ref="char:EOLhyphen"/>tuous as many of the Heathens. Surely ſuch Men have no Souls, or no value for them, that conſider not affectionately the many obligations due to their native Chriſti<g ref="char:EOLhyphen"/>an Soil; that are ſo wilfully blind, as not to ſee the benefits and bleſſings they have received; and ſo obſtinately unthankful that they will not acknowledge the hand which frankly gave them. But I hope better things of you, my beloved Countrymen, that as you have already begun to exerciſe your be<g ref="char:EOLhyphen"/>nignity and Charity; ſo you will increaſe more and more in that excellent Grace and Vertue; for the ſame Commandment of God which obligeth you to day, will be of the ſame force to morrow; the ſame kind of Tribute thou payeſt this day, will be no leſs due the next, for every day brings a new obligation of that Obedience which we owe unto the living God. This Life of ours is as it were a Journey, the Command<g ref="char:EOLhyphen"/>ments of God are the ways of it: there is not a more frequent expreſſion in the ſacred
+<pb n="17" facs="tcp:152481:10"/> Pages, than walking in the Law and Statutes of the Lord, walking in the ways and paths of God; and they who are not exerciſed day and night in the Law of the Lord, do not walk in the paths of God, but rather ſtand ſtill in the way of Sinners; for Gods Servants muſt not imitate <hi>Ahaz</hi>'s Sun, that moved gradually backward; nor <hi>Joſhua</hi>'s Sun that moved neither backward nor forward, but <hi>David</hi>'s Sun, that appears gloriouſly ar<g ref="char:EOLhyphen"/>ray'd, like a Bridegoom out of his Cham<g ref="char:EOLhyphen"/>ber, and rejoyceth as a young man to run his race: and he runs in vain, that runs ſwiftly ſetting out, but faints before he ar<g ref="char:EOLhyphen"/>rives at the mark; for ſuch a racer will ne<g ref="char:EOLhyphen"/>ver obtain the prize; and it is as fruitleſs to begin in a vertuous courſe, and not to con<g ref="char:EOLhyphen"/>tinue in it to the end. Such a man will be never able to ſay with St <hi>Paul, I have fought a good fight, I have finiſhed my courſe, I have kept the faith; henceforth there is laid up for me a Crown of Righteouſneſs.</hi> He that will be <hi>Paul</hi>'s Scholar, muſt perſevere in the good courſe he hath begun to walk in: his Do<g ref="char:EOLhyphen"/>ctrine
+<pb n="18" facs="tcp:152481:11"/> is to increaſe, and his Practice an<g ref="char:EOLhyphen"/>ſwerable to it. <hi>I preſs towards the mark of the high calling of God in Chriſt Jeſus.</hi> Phil. 3. v. 14. It is not ſufficient to know the way of Righteouſneſs, and to make ſome pro<g ref="char:EOLhyphen"/>greſs in it, there muſt be a daily and con<g ref="char:EOLhyphen"/>ſtant abounding, a going on in the good and the right way, or elſe we can have no comfortable hope of that glorious Crown of Eternal Life. The Apoſtle beſeeches you to encreaſe more and more, he frequently preſſed this laudable Duty, he exhorted his <hi>Philippians</hi> to abound in love, his <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> to abound always in the work of the Lord: Nor is he ſingular in this, he hath many Joint-labourers, <hi>Timotheus</hi> and <hi>Sil<g ref="char:EOLhyphen"/>vanus:</hi> St. <hi>Peter</hi> alſo accords with him in the laſt words of his ſecond Epiſtle, <hi>Grow in Grace,</hi> ſaith he, <hi>and in the Knowledge of Our Lord and Saviour Jeſus Chriſt.</hi> And growth, there is not an addition, a daily in<g ref="char:EOLhyphen"/>creaſing more and more. Gods Husbandry hath no time to lye fallow, nor will he ſuf<g ref="char:EOLhyphen"/>fer the branches of his Vine at any time to
+<pb n="19" facs="tcp:152481:11"/> be unfruitful; nay he expects from it a great increaſe, and therefore he prunes off the bad branches, dreſſes, trims, and cultivates the goodones that they may bring forth more fruit <hi>John</hi> 15. <hi>v.</hi> 3. Haſt thou then been exerciſed in the School of Virtue, in the per<g ref="char:EOLhyphen"/>formance of a pious Duty, of a vertuous Office? thou haſt done well, but not enough, for conſtancy and perſeverance are required in all the works of the Lord. Haſt thou been charitable? continue in the practie of that ſweet, noble, and divine grace: haſt thou been devout? proceed in thy de<g ref="char:EOLhyphen"/>votion: haſt thou been meek and humble? deck thy ſelf ſtill with lowlineſs of mind: haſt thou been bountiful? ſlack not thy li<g ref="char:EOLhyphen"/>beral Hand, abound more and more in pie<g ref="char:EOLhyphen"/>ty and charity; do good to all Men, ſaith the Apoſtle, but eſpecially to the Houſhold of Faith, when it ſtands in need of your charity, increaſing in this heavenly Vertue more and more. Every creature almoſt in the World yields you a motive, a perſwa<g ref="char:EOLhyphen"/>ſive to the Duty. The Sun is reſtleſs in
+<pb n="20" facs="tcp:152481:12"/> her rounding courſe; the Moon and all the Stars, move as conſtantly in their cour<g ref="char:EOLhyphen"/>ſes, as the Days and Time; the flaming Fire is always aſcending, the liquid Water even running, the ſprightly Air in perpetual motion. Let us therefore not <hi>ſtand in the way of Sinners, nor ſet in the Seat of the Scornful, but walk in the Law of the Lord, and exerciſe our ſelves in it Day and Night.</hi> Where is the Husbandman that doth not dig his Garden, dreſs his Orchard, till and manure his Lands, that they may yield a good in<g ref="char:EOLhyphen"/>creaſe, a plentiful crop in due Seaſon? and ſhould not a man be more induſtrious, more careful for his Soul than his Garden, or Orchard? is not his Eternal State preferra<g ref="char:EOLhyphen"/>ble to Temporal Poſſeſſions, and all the good things of this Life? And how do they then value and eſteem thoſe precious Jew<g ref="char:EOLhyphen"/>els, their immortal Souls, who neglect the Doctrin of the good Apoſtle in my Text; that inwardly adore the Mammon of Un<g ref="char:EOLhyphen"/>righteouſneſs? and ſay in their hearts to a wedge of Gold, thou art our hope and our
+<pb n="21" facs="tcp:152481:12"/> Confidence, and lay no foundation for Eternal Life, by the works of Charity and Mercy. Some men there are, but not mem<g ref="char:EOLhyphen"/>bers of this honourable Society, whoſe Mouths are full of Charity, but in their Hands are no Gifts; they give large Porti<g ref="char:EOLhyphen"/>ons with their Mouths, but kindneſſes from their Hands, are very difficult to be ſeen, felt, or underſtood: this lip-love, and mouth-charity is condemned by the Apo<g ref="char:EOLhyphen"/>ſtle, becauſe it conſiſts only in words, not in deed: and to ſay God bleſs you to a Bro<g ref="char:EOLhyphen"/>ther that is naked, and wants Cloathing; or I wiſh you well to a Siſter that wants Food, are no better than airy, empty Com<g ref="char:EOLhyphen"/>pliments, and do no more fill the belly and warm the back, than a golden dream doth fill the pocket and inrich the Man. Jam. 2. v. 15. <hi>If a Brother or Siſter be naked, or de<g ref="char:EOLhyphen"/>ſtitute of daily Food; and one of you ſay unto them depart in peace, be ye warmed, be ye filled: Notwithſtanding, ye give them not thoſe things which are needful for the Body; what doth it profit them?</hi>
+            </p>
+            <pb n="22" facs="tcp:152481:13"/>
+            <p>Finally, My Beloved Brethren, that you may be incouraged to practice the Duty of the Text, conſider the great advantages and bleſſings peculiar to a holy, pious Chari<g ref="char:EOLhyphen"/>ty. The firſt is, that the merciful, chari<g ref="char:EOLhyphen"/>table Chriſtian hath the promiſe of Gods protection, in the day of diſtreſs and dan<g ref="char:EOLhyphen"/>ger; of his favour and loving kindneſs in the day of his viſitation. <hi>Pſal.</hi> 41. <hi>v.</hi> 1. <hi>Bleſſed is he that conſidereth the poor, the Lord will deliver him in the time of trouble.</hi> v. 2. <hi>The Lord will preſerve him and keep him alive, and he ſhall be bleſſed upon earth, and thou wilt not deliver him into the will of his Ene<g ref="char:EOLhyphen"/>mies.</hi> v. 3. <hi>The Lord will ſtrengthen him upon a bed of Languiſhing, thou wilt make all his bed in his ſickneſs.</hi> Prov. 19. v. 17. <hi>He that hath pity upon the poor lendeth unto the Lord; and that which he hath given he will pay him again.</hi> Prov. 28. v. 27. <hi>He that giveth unto the poor ſhall not lack, he that encreaſeth more and more in charity, ſhall find favour with God, which is better than life it ſelf.</hi> Prov. 11. v. 25. <hi>The liberal Soul ſhall be made fat, and
+<pb n="23" facs="tcp:152481:13"/> he that watereth ſhall be watered alſo himſelf.</hi> Theſe are the good Bleſſings of this Life, which God hath promiſed to the Righteous, Merciful man. Secondly, Spiritual Bleſſings, and thoſe of the Life to come are likewiſe promiſed to him, as you may read, <hi>Pſa.</hi> 112. <hi>v.</hi> 9. <hi>He hath diſperſed abroad, he hath given to the poor, his Righteouſneſs remaineth for ever;</hi> that is, he ſhall be remembred, not only in this Life, but in the Life to come. 1 <hi>Tim.</hi> 6. <hi>v.</hi> 17. <hi>Charge them that are rich in this World, that they truſt not in uncertain Riches, but in the Living God: that they do good, that they be rich in good works, laying up in ſtore for themſelves a good foundation againſt the time to come, that they may lay hold on Eternal Life.</hi> In a word, unleſs we ſhow it to our Brother, God will ſhow none to us: they who have not charity for their fellow Chriſtians, will receive none from the hands of the Lord when they ſtand moſt in need of it. We ſhall all be judged at the laſt day ac<g ref="char:EOLhyphen"/>cording to the works of Mercy; therefore I beſeech you to increaſe more and more in
+<pb n="24" facs="tcp:152481:14"/> Charity and Mercy, that the Son of God may welcom you into his heavenly Kingdom, with a <hi>Come ye bleſſed Children of my Father, inherit the Kingdom prepared for you from the foundation of the World.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
